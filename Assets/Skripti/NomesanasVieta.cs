@@ -10,8 +10,6 @@ public class NomesanasVieta : MonoBehaviour, IDropHandler {
 	private float xIzmeruStarp, yIzmeruStarp;
 	public Objekti objektuSkripts;
 	
-	
-	
 	public void OnDrop(PointerEventData eventData)
     {
         if(eventData.pointerDrag != null)
@@ -45,17 +43,56 @@ public class NomesanasVieta : MonoBehaviour, IDropHandler {
 					switch(eventData.pointerDrag.tag){
 						case "atkritumi":
 							objektuSkripts.SkanasAvots.PlayOneShot(objektuSkripts.skanaKoAtskanot[1]);
+                            objektuSkripts.cikIr++;
 							break;
 
 						case "buss":
                             objektuSkripts.SkanasAvots.PlayOneShot(objektuSkripts.skanaKoAtskanot[3]);
+                            objektuSkripts.cikIr++;
                             break;
 
 						case "medicina":
                             objektuSkripts.SkanasAvots.PlayOneShot(objektuSkripts.skanaKoAtskanot[2]);
+                            objektuSkripts.cikIr++;
                             break;
 
-						default:
+						case "b2Auto":
+                            objektuSkripts.SkanasAvots.PlayOneShot(objektuSkripts.skanaKoAtskanot[4]);
+                            break;
+
+						case "cements":
+                            objektuSkripts.SkanasAvots.PlayOneShot(objektuSkripts.skanaKoAtskanot[5]);
+                            break;
+
+                        case "e46auto":
+                            objektuSkripts.SkanasAvots.PlayOneShot(objektuSkripts.skanaKoAtskanot[6]);
+                            break;
+
+                        case "e61automas":
+                            objektuSkripts.SkanasAvots.PlayOneShot(objektuSkripts.skanaKoAtskanot[7]);
+                            break;
+
+                        case "eskavators":
+                            objektuSkripts.SkanasAvots.PlayOneShot(objektuSkripts.skanaKoAtskanot[8]);
+                            break;
+
+                        case "policija":
+                            objektuSkripts.SkanasAvots.PlayOneShot(objektuSkripts.skanaKoAtskanot[9]);
+                            break;
+
+                        case "traktors":
+                            objektuSkripts.SkanasAvots.PlayOneShot(objektuSkripts.skanaKoAtskanot[10]);
+                            break;
+
+                        case "traktorszalais":
+                            objektuSkripts.SkanasAvots.PlayOneShot(objektuSkripts.skanaKoAtskanot[11]);
+                            break;
+
+                        case "ugunsdz":
+                            objektuSkripts.SkanasAvots.PlayOneShot(objektuSkripts.skanaKoAtskanot[12]);
+                            break;
+
+                        default:
 							Debug.Log("Tags netika atpazits");
 							break;
 					}
@@ -78,6 +115,41 @@ public class NomesanasVieta : MonoBehaviour, IDropHandler {
                         objektuSkripts.AtraPalidziba.GetComponent<RectTransform>().localPosition = objektuSkripts.AtraPalKoord;
                         break;
 
+                    case "b2Auto":
+                        objektuSkripts.b2Masina.GetComponent<RectTransform>().localPosition = objektuSkripts.b2Koord;
+                        break;
+
+                    case "cements":
+                        objektuSkripts.CementuMasina.GetComponent<RectTransform>().localPosition = objektuSkripts.CemenKoord;
+                        break;
+
+                    case "e46auto":
+                        objektuSkripts.e46Transports.GetComponent<RectTransform>().localPosition = objektuSkripts.e46Koord;
+                        break;
+
+                    case "e61automas":
+                        objektuSkripts.e61Trans.GetComponent<RectTransform>().localPosition = objektuSkripts.e61Koord;
+                        break;
+
+                    case "eskavators":
+                        objektuSkripts.EskavatorsMas.GetComponent<RectTransform>().localPosition = objektuSkripts.EskavatorsKoord;
+                        break;
+
+                    case "policija":
+                        objektuSkripts.Policija.GetComponent<RectTransform>().localPosition = objektuSkripts.PoliKoord;
+                        break;
+
+                    case "traktors":
+                        objektuSkripts.Traktors1.GetComponent<RectTransform>().localPosition = objektuSkripts.TraktKoord;
+                        break;
+
+                    case "traktorszalais":
+                        objektuSkripts.TraktorsZ5.GetComponent<RectTransform>().localPosition = objektuSkripts.TraktorsZalKoord;
+                        break;
+
+                    case "ugunsdz":
+                        objektuSkripts.UgunsdzesejsMas.GetComponent<RectTransform>().localPosition = objektuSkripts.UgunsdzKoord;
+                        break;
                     default:
                         Debug.Log("Tags netika atpazits");
                         break;
@@ -85,14 +157,4 @@ public class NomesanasVieta : MonoBehaviour, IDropHandler {
             }
 		}
     }
-
-    // Use this for initialization
-    void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
 }
