@@ -6,7 +6,7 @@ Drag and drop function being used in a game about dragging vehicles to a correct
 - [X] Ability to place vehicles anywhere on the map
 - [X] Ability to place the vehicles on a incorrect spot
 - [X] Ability to place the vehicles in a correct spot
-- [ ] Rotation changes for the vehicle (Z axis)
-- [ ] Width change by the X axis
-- [ ] Height change by the Y axis
+- [X] Rotation changes for the vehicle (Z axis)
+- [X] Width change by the X axis
+- [X] Height change by the Y axis
 - [X] Sound effects
