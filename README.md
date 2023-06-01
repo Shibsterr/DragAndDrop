@@ -10,3 +10,8 @@ Drag and drop function being used in a game about dragging vehicles to a correct
 - [X] Width change by the X axis
 - [X] Height change by the Y axis
 - [X] Sound effects
+- [X] Added a timer
+- [X] Pievienot sakotneju ainu
+- [X] Noteikuma poga
+- [X] Pariesanas aina
+- [X] Apturesanas poga

@@ -16,7 +16,10 @@ public class Objekti : MonoBehaviour {
 	public GameObject Traktors1;
 	public GameObject TraktorsZ5;
 	public GameObject UgunsdzesejsMas;
-	public GameObject UzvarasPanele;
+
+	public GameObject UzvarasPanele3;
+    public GameObject UzvarasPanele2;
+    public GameObject UzvarasPanele1;
 
     //Uzglabas katra transportlidzekla sakotnejo atrasanas vietu
     [HideInInspector]

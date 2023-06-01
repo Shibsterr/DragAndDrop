@@ -1,0 +1,43 @@
+Initialize engine version: 5.5.6f1 (3fb31a95adee)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 630 (ID=0x9bc8)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   30.0.101.1273
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\2PT-1\Desktop\Endija\unity-kudums\DragAndDrop\VelcUnNomet_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\2PT-1\Desktop\Endija\unity-kudums\DragAndDrop\VelcUnNomet_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\2PT-1\Desktop\Endija\unity-kudums\DragAndDrop\VelcUnNomet_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\2PT-1\Desktop\Endija\unity-kudums\DragAndDrop\VelcUnNomet_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\2PT-1\Desktop\Endija\unity-kudums\DragAndDrop\VelcUnNomet_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\2PT-1\Desktop\Endija\unity-kudums\DragAndDrop\VelcUnNomet_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\2PT-1\Desktop\Endija\unity-kudums\DragAndDrop\VelcUnNomet_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\2PT-1\Desktop\Endija\unity-kudums\DragAndDrop\VelcUnNomet_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\2PT-1\Desktop\Endija\unity-kudums\DragAndDrop\VelcUnNomet_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\2PT-1\Desktop\Endija\unity-kudums\DragAndDrop\VelcUnNomet_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.021 seconds
+Platform assembly: C:\Users\2PT-1\Desktop\Endija\unity-kudums\DragAndDrop\VelcUnNomet_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\2PT-1\Desktop\Endija\unity-kudums\DragAndDrop\VelcUnNomet_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.856600 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.192300 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 607.
+Total: 0.224300 ms (FindLiveObjects: 0.019600 ms CreateObjectMapping: 0.015700 ms MarkObjects: 0.182600 ms  DeleteObjects: 0.006100 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at AtsaksanasPoga.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 2b50 -> priority: 1 
+  Thread -> id: 5970 -> priority: 1 
+  Thread -> id: 218c -> priority: 1 

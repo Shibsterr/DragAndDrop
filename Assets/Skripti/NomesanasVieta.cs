@@ -58,38 +58,47 @@ public class NomesanasVieta : MonoBehaviour, IDropHandler {
 
 						case "b2Auto":
                             objektuSkripts.SkanasAvots.PlayOneShot(objektuSkripts.skanaKoAtskanot[4]);
+                            objektuSkripts.cikIr++;
                             break;
 
 						case "cements":
                             objektuSkripts.SkanasAvots.PlayOneShot(objektuSkripts.skanaKoAtskanot[5]);
+                            objektuSkripts.cikIr++;
                             break;
 
                         case "e46auto":
                             objektuSkripts.SkanasAvots.PlayOneShot(objektuSkripts.skanaKoAtskanot[6]);
+                            objektuSkripts.cikIr++;
                             break;
 
                         case "e61automas":
                             objektuSkripts.SkanasAvots.PlayOneShot(objektuSkripts.skanaKoAtskanot[7]);
+                            objektuSkripts.cikIr++;
                             break;
 
                         case "eskavators":
                             objektuSkripts.SkanasAvots.PlayOneShot(objektuSkripts.skanaKoAtskanot[8]);
+                            objektuSkripts.cikIr++;
                             break;
 
                         case "policija":
                             objektuSkripts.SkanasAvots.PlayOneShot(objektuSkripts.skanaKoAtskanot[9]);
+                            objektuSkripts.cikIr++;
                             break;
 
                         case "traktors":
                             objektuSkripts.SkanasAvots.PlayOneShot(objektuSkripts.skanaKoAtskanot[10]);
+                            objektuSkripts.cikIr++;
                             break;
 
                         case "traktorszalais":
                             objektuSkripts.SkanasAvots.PlayOneShot(objektuSkripts.skanaKoAtskanot[11]);
+                            objektuSkripts.cikIr++;
                             break;
 
                         case "ugunsdz":
                             objektuSkripts.SkanasAvots.PlayOneShot(objektuSkripts.skanaKoAtskanot[12]);
+                            objektuSkripts.cikIr++;
                             break;
 
                         default:
