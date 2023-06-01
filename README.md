@@ -1,15 +1,15 @@
 # DragAndDrop
-Drag and drop function being used in a game about dragging vehicles to a correct location
+Drag un drop funckija izmantot spelej
 
-## Tasks for this project
-- [X] Ability to move vehicles with the help of the mouse
-- [X] Ability to place vehicles anywhere on the map
-- [X] Ability to place the vehicles on a incorrect spot
-- [X] Ability to place the vehicles in a correct spot
-- [X] Rotation changes for the vehicle (Z axis)
-- [X] Width change by the X axis
-- [X] Height change by the Y axis
-- [X] Sound effects
+## Uzdevumi sajam projektam
+- [X] Iespeja kustinat masinas ar peles palidzibu
+- [X] Iespeja novietot masinu jebkura uz kartes
+- [X] Iespeja novietot masinu nepareiza vieta
+- [X] Iespeja novietot masinu pareiza vieta
+- [X] Masinu rotacija pa Z asi
+- [X] Garuma maina pa X asi
+- [X] Augstuma maina pa Y asi
+- [X] Skanas efekti
 - [X] Added a timer
 - [X] Pievienot sakotneju ainu
 - [X] Noteikuma poga
