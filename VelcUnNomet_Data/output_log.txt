@@ -17,7 +17,7 @@ Platform assembly: C:\Users\2PT-1\Desktop\Endija\unity-kudums\DragAndDrop\VelcUn
 Loading C:\Users\2PT-1\Desktop\Endija\unity-kudums\DragAndDrop\VelcUnNomet_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: C:\Users\2PT-1\Desktop\Endija\unity-kudums\DragAndDrop\VelcUnNomet_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
 Loading C:\Users\2PT-1\Desktop\Endija\unity-kudums\DragAndDrop\VelcUnNomet_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-- Completed reload, in  0.021 seconds
+- Completed reload, in  0.019 seconds
 Platform assembly: C:\Users\2PT-1\Desktop\Endija\unity-kudums\DragAndDrop\VelcUnNomet_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\2PT-1\Desktop\Endija\unity-kudums\DragAndDrop\VelcUnNomet_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
@@ -25,19 +25,199 @@ desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 3.856600 ms
+UnloadTime: 4.011500 ms
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.192300 ms
+UnloadTime: 4.236700 ms
 
 Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 607.
-Total: 0.224300 ms (FindLiveObjects: 0.019600 ms CreateObjectMapping: 0.015700 ms MarkObjects: 0.182600 ms  DeleteObjects: 0.006100 ms)
+Total: 0.226700 ms (FindLiveObjects: 0.019100 ms CreateObjectMapping: 0.015900 ms MarkObjects: 0.185300 ms  DeleteObjects: 0.006200 ms)
 
 NullReferenceException: Object reference not set to an instance of an object
   at AtsaksanasPoga.Start () [0x00000] in <filename unknown>:0 
  
 (Filename:  Line: -1)
 
+Rotacijas starpiba: 1.071616
+x starpiba: 0
+y starpiba: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Nolikts pareizaja vieta
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rotacijas starpiba: 0
+x starpiba: 0.3
+y starpiba: 0.35
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rotacijas starpiba: 359.1083
+x starpiba: 0.0009961128
+y starpiba: 0.0490039
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Nolikts pareizaja vieta
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rotacijas starpiba: 0
+x starpiba: 0.4
+y starpiba: 0.3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rotacijas starpiba: 0
+x starpiba: 0.09100395
+y starpiba: 0.0019961
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Nolikts pareizaja vieta
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rotacijas starpiba: 0
+x starpiba: 0.08700275
+y starpiba: 0.09000272
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Nolikts pareizaja vieta
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rotacijas starpiba: 0
+x starpiba: 0.1
+y starpiba: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rotacijas starpiba: 0
+x starpiba: 0.02300102
+y starpiba: 0.0699991
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Nolikts pareizaja vieta
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rotacijas starpiba: 337.4883
+x starpiba: 0.15
+y starpiba: 0.15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rotacijas starpiba: 3.449585
+x starpiba: 0.04899746
+y starpiba: 0.003001869
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Nolikts pareizaja vieta
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rotacijas starpiba: 0
+x starpiba: 0
+y starpiba: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Nolikts pareizaja vieta
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rotacijas starpiba: 0
+x starpiba: 0.07200551
+y starpiba: 0.03600466
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Nolikts pareizaja vieta
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rotacijas starpiba: 0
+x starpiba: 0.1
+y starpiba: 0.2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rotacijas starpiba: 0
+x starpiba: 0.02099842
+y starpiba: 0.08200151
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Nolikts pareizaja vieta
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rotacijas starpiba: 0
+x starpiba: 0.09999996
+y starpiba: 0.1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rotacijas starpiba: 0
+x starpiba: 0.05400056
+y starpiba: 0.05700058
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Nolikts pareizaja vieta
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rotacijas starpiba: 0
+x starpiba: 0.1110024
+y starpiba: 0.1370021
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rotacijas starpiba: 0
+x starpiba: 0.1070025
+y starpiba: 0.1360021
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rotacijas starpiba: 0
+x starpiba: 0.04000336
+y starpiba: 0.07300293
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Nolikts pareizaja vieta
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rotacijas starpiba: 0
+x starpiba: 0.1
+y starpiba: 0.1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rotacijas starpiba: 0
+x starpiba: 0.05800056
+y starpiba: 0.0710004
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Nolikts pareizaja vieta
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.090200 ms
+
+Unloading 70 unused Assets to reduce memory usage. Loaded Objects now: 319.
+Total: 3.471200 ms (FindLiveObjects: 0.012100 ms CreateObjectMapping: 0.012200 ms MarkObjects: 0.144800 ms  DeleteObjects: 3.302000 ms)
+
 Setting up 3 worker threads for Enlighten.
-  Thread -> id: 2b50 -> priority: 1 
-  Thread -> id: 5970 -> priority: 1 
-  Thread -> id: 218c -> priority: 1 
+  Thread -> id: 4c0 -> priority: 1 
+  Thread -> id: 4a40 -> priority: 1 
+  Thread -> id: 2a68 -> priority: 1 

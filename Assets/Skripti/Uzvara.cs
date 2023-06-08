@@ -7,6 +7,9 @@ public class Uzvara : MonoBehaviour {
     public Objekti objektuSkripts;
     public Text timeText;
     public Text LaiksUzvarasLoga;
+    public Text LaiksUzvarasLoga2;
+    public Text LaiksUzvarasLoga3;
+
     private float timeToDisplay;
     private bool gamePaused = false;
 
@@ -39,6 +42,8 @@ public class Uzvara : MonoBehaviour {
         float minutes = Mathf.FloorToInt(timeToDisplay / 60);
         float seconds = Mathf.FloorToInt(timeToDisplay % 60);
         LaiksUzvarasLoga.text = string.Format("{0:00}:{1:00}", minutes, seconds);
+        LaiksUzvarasLoga2.text = string.Format("{0:00}:{1:00}", minutes, seconds);
+        LaiksUzvarasLoga3.text = string.Format("{0:00}:{1:00}", minutes, seconds);
     }
 
     void uzvarasLogs(){
